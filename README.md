@@ -6,6 +6,7 @@
 - [NixOS Official - Stable](https://nixos.org/manual/nixos/stable/)
 - [NixOS Official - Unstable](https://nixos.org/manual/nixos/unstable/)
 - [NixOS Official - Packages](https://search.nixos.org/packages)
+- [NixOS Official - Options](https://search.nixos.org/options)
 - [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOS - Home Manager](https://nix-community.github.io/home-manager/)
 - [Chris Titus - NixOS Explained](https://christitus.com/nixos-explained/)
