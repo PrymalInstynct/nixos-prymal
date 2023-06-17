@@ -9,7 +9,7 @@
 - [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOS - Home Manager](https://nix-community.github.io/home-manager/)
 - [Chris Titus - NixOS Explained](https://christitus.com/nixos-explained/)
-- [NixOS & Flakes Basiscs](https://thiscute.world/en/posts/nixos-and-flake-basics)
+- [NixOS & Flakes Basics](https://thiscute.world/en/posts/nixos-and-flake-basics)
 
 ### Example NixOS Configs
 - [ChrisTitus](https://github.com/ChrisTitusTech/nixos-titus)
