@@ -13,7 +13,7 @@
 - [NixOS & Flakes Basics](https://thiscute.world/en/posts/nixos-and-flake-basics)
 
 ### Flakes Documentation for Beginners
-- [NixOS & Flakes - For Beginners}(https://nixos-and-flakes.thiscute.world/)
+- [NixOS & Flakes - For Beginners](https://nixos-and-flakes.thiscute.world/)
 
 ### Example NixOS Configs
 - [ChrisTitus](https://github.com/ChrisTitusTech/nixos-titus)
